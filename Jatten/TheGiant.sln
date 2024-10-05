@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGiant", "TheGiant\TheGiant.csproj", "{3E264BEC-B2D6-40BC-A95F-45B85D299053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E264BEC-B2D6-40BC-A95F-45B85D299053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E264BEC-B2D6-40BC-A95F-45B85D299053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E264BEC-B2D6-40BC-A95F-45B85D299053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E264BEC-B2D6-40BC-A95F-45B85D299053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133D99AD-971C-416B-983A-F3E4CC349968}
+	EndGlobalSection
+EndGlobal
